@@ -1,0 +1,194 @@
+/*
+	Styling for header and banner
+*/
+
+.header{
+	background-color: #3e6fbd;
+}
+
+.navbar{
+	padding-top: 20px;
+
+}
+
+.navbar{
+	margin-bottom: 10px;
+}
+
+.nav-item{
+	color: #fff !important;
+	font-size: 12px;
+	padding: 0 0 5px 0;
+	display: unset;
+}
+
+.fa-bars{
+	font-size: 30px;
+	color: #fff;
+}
+
+.navbar-toggler{
+	border: 0 !important;
+	outline: none !important;
+	padding: initial !important;
+}
+
+.navbar-nav a.active,
+.navbar-nav a:hover{
+	border-bottom: 2px solid #fff;
+}
+
+
+/*
+	Style for Home Page Banner
+*/
+
+.cover-pic{
+	background-image: url('../img/banner_pic_001.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center center;
+}
+
+.banner{
+	margin-top: 8%;
+	padding-bottom: 20%;
+	color: #fff;
+}
+
+
+.banner h1{
+	margin: 50px 0 30px 0;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+
+/*
+	style for welcome section
+*/
+
+.intro{
+	padding-bottom: 50px;
+}
+
+
+.welcome-info{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-top: -50px;
+	background-color: #fff;
+	-webkit-box-shadow: 0px -2px 5px 0px #474747;
+	-moz-box-shadow: 0px -2px 5px 0px #474747;
+	box-shadow: 0px -2px 5px 0px #474747;
+}
+
+.info-box{
+	padding: 20px;
+}
+
+.info-box h3{
+	font-size: 17px;
+	font-weight: 200px;
+}
+
+.info-box p{
+	color: #b7b7b7;
+	font-size: 14px;
+}
+
+.sideinfo{
+	padding: 40px;
+	color: #fff;
+	background-color: #3F3F95;
+	/*background-image: url('../img/bg001.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center center;*/
+}
+
+
+.sideinfo h3{
+	font-size: 29px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #ffffff;
+}
+
+.sideinfo h5{
+	font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    color: #ccc;
+}
+
+.sideinfo p{
+	color: #e6e6e6;
+}
+
+
+.libs{
+	color: #fff;
+	background-image: url('../img/image_001.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center center;
+}
+
+.purple-strip{
+	background-color: #3F3F95;
+	color: #fff;
+}
+
+.purple-strip h3{
+	font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    color: #ccc;
+}
+
+.blue-strip{
+	background-color: #308ecc;
+	color: #fff;
+}
+
+.blue-strip h5{
+	color: #add3ec;
+}
+
+
+
+
+/*
+	Style for footer
+*/
+
+footer{
+	background-color: #3C3C3C;
+	color: #fff;
+	padding: 30px 0 30px 0;
+	font-size: 12px;
+}
+
+
+footer h3{
+	font-size: 18px;
+	font-weight: 300px;
+	border-bottom: 2px solid #04AFF6;
+	padding: 15px 5px;
+}
+
+
+footer ul li a{
+	color:#8d8d8d;
+	padding: 5px !important;
+	display: inline-block;
+}
+
+
+footer a:hover{
+	color:#f1f1f1;
+	text-decoration: none;
+
+}
