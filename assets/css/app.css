@@ -62,7 +62,7 @@ body{
 .banner{
 	margin-top: 6%;
 	padding-bottom: 20%;
-	color: #fff;
+	color:#FFFFFF;
 }
 
 
@@ -71,6 +71,9 @@ body{
 	font-weight: 600;
 	font-size: 70px;
 	font-family: 'Montserrat', sans-serif;
+	background-color: #3F3F95;
+	color: #ffffff;
+	opacity: 0.6;
 }
 
 
